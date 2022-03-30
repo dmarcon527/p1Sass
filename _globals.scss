@@ -2,6 +2,9 @@ body {
   margin: 0;
   background-color: $bgColor;
 }
+header{
+  border: 1px solid $borde;
+}
 
 main{
   ul{

@@ -1,0 +1,26 @@
+{
+  "name": "p1sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:watch": "sass --watch styles.scss  styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmarcon527/p1Sass.git"
+  },
+  "author": "Dacil Marco Contreras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmarcon527/p1Sass/issues"
+  },
+  "homepage": "https://github.com/dmarcon527/p1Sass#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1"
+  }
+}
