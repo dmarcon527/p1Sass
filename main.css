@@ -2,4 +2,48 @@ body {
   margin: 0;
   background-color: #5bbff8;
 }
+
+main ul {
+  list-style: none;
+}
+
+main ul li:nth-child(1) {
+  color: #f9acb8;
+}
+
+main ul li:nth-child(2) {
+  color: #fbc3cc;
+}
+
+main ul li:nth-child(3) {
+  color: #fcdbe1;
+}
+
+main ul li:nth-child(4) {
+  color: #fef3f5;
+}
+
+main ul li:nth-child(5) {
+  color: white;
+}
+
+main ul li:nth-child(6) {
+  color: white;
+}
+
+main ul li:nth-child(7) {
+  color: white;
+}
+
+main ul li:nth-child(8) {
+  color: white;
+}
+
+main ul li:nth-child(9) {
+  color: white;
+}
+
+main ul li:nth-child(10) {
+  color: white;
+}
 /*# sourceMappingURL=main.css.map */

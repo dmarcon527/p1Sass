@@ -2,3 +2,15 @@ body {
   margin: 0;
   background-color: $bgColor;
 }
+
+main{
+  ul{
+    list-style: none;
+  }
+  @for $i from 1 through 10 {
+    ul li:nth-child(#{$i}) {
+      color: lighten($baseColor, $i * 5%);
+      
+    }
+  }
+}
